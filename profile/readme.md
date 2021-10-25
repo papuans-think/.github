@@ -1,3 +1,3 @@
-## SaCode
+## Think Tank - Papuans
 
-Tempat kursus dan komunitas belajar pemrograman komputer - Papua dan Papua Barat. 
+Komunitas Belajar berbagai Topik-topik di bidang IT bagi Mahasiswa Papua di ITS Surabaya
